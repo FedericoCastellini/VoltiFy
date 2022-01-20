@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Voltify</string>
+    <string-array name="genere">
+        <item>Rap</item>
+        <item>Trap</item>
+        <item>Pop</item>
+        <item>Indie</item>
+        <item>Rock</item>
+        <item>Metal</item>
+        <item>Country</item>
+        <item>Punk</item>
+        <item>Metal</item>
+        <item>K-pop</item>
+    </string-array>
+</resources>
